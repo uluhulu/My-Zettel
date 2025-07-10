@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
+                "file": "Base/Stopwatch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-07-10 14.31.57.excalidraw"
+              "title": "Graph of Stopwatch"
             }
           },
           {
@@ -90,18 +90,20 @@
             "id": "8697514241f059c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Base/@pragma.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "@pragma"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "5a8c84a4a80e7104",
@@ -150,12 +152,14 @@
             "id": "78bdffb5493f5d98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md"
+                "file": "Base/Stopwatch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-10 14.31.57.excalidraw"
+              "icon": "lucide-file",
+              "title": "Stopwatch"
             }
           }
         ],
@@ -247,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
+                "file": "Base/Stopwatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-07-10 14.31.57.excalidraw"
+              "title": "Backlinks for Stopwatch"
             }
           },
           {
@@ -266,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
+                "file": "Base/Stopwatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-07-10 14.31.57.excalidraw"
+              "title": "Outgoing links from Stopwatch"
             }
           },
           {
@@ -280,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
+                "file": "Base/Stopwatch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-07-10 14.31.57.excalidraw"
+              "title": "Outline of Stopwatch"
             }
           }
         ],
@@ -310,7 +314,10 @@
   },
   "active": "78bdffb5493f5d98",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Base/Stopwatch.md",
     "Base/@pragma.md",
+    "Base/binding.deferFirstFrame().md",
     "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
     "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
     "Excalidraw/app_initialization.md",
@@ -335,9 +342,6 @@
     "Base/Каскадный оператор.md",
     "Base/html, head, body.md",
     "Base/Update Mixin.md",
-    "Z-Core/00 Dart.md",
-    "Excalidraw/Drawing 2025-06-29 11.38.30.excalidraw.md",
-    "Excalidraw/logger.excalidraw.md",
     "Untitled 1.canvas",
     "Files/5_7_1_920d72d0ba.svg",
     "Files/Снимок экрана 2025-05-24 в 15.44.00.png",
