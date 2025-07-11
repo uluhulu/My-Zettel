@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Stopwatch.md",
+                "file": "Z-Core/00 Flutter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -37,12 +37,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1795897407295208,
+                  "scale": 1.8248030491565146,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Stopwatch"
+              "title": "Graph of 00 Flutter"
             }
           },
           {
@@ -154,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Stopwatch.md",
+                "file": "Z-Core/00 Flutter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stopwatch"
+              "title": "00 Flutter"
             }
           }
         ],
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Stopwatch.md",
+                "file": "Z-Core/00 Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stopwatch"
+              "title": "Backlinks for 00 Flutter"
             }
           },
           {
@@ -270,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Stopwatch.md",
+                "file": "Z-Core/00 Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stopwatch"
+              "title": "Outgoing links from 00 Flutter"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Stopwatch.md",
+                "file": "Z-Core/00 Flutter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stopwatch"
+              "title": "Outline of 00 Flutter"
             }
           }
         ],
@@ -314,8 +314,8 @@
   },
   "active": "78bdffb5493f5d98",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
     "Base/Stopwatch.md",
+    "Untitled 2.canvas",
     "Base/@pragma.md",
     "Base/binding.deferFirstFrame().md",
     "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
