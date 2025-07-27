@@ -105,18 +105,28 @@
             "id": "22122f66f4fe4a20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Base/Создание папки для ci cd.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/scenario.md"
               },
-              "icon": "lucide-file",
-              "title": "Создание папки для ci cd"
+              "icon": "excalidraw-icon",
+              "title": "scenario"
+            }
+          },
+          {
+            "id": "f9477ff16c4de83d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/initialization_process.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "initialization_process"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,10 +275,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22122f66f4fe4a20",
+  "active": "f9477ff16c4de83d",
   "lastOpenFiles": [
-    "Base/sql lite.md",
+    "Excalidraw/scenario.md",
+    "Excalidraw/initialization_process.md",
+    "Excalidraw/logger.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-29 11.38.30.excalidraw.md",
+    "Excalidraw/app_initialization.md",
+    "Base/Архитектура.md",
     "Base/Создание папки для ci cd.md",
+    "Base/sql lite.md",
     "Base/flutter_secure_storage.md",
     "Base/typed_data.md",
     "Z-Core/00 Flutter.md",
@@ -279,23 +297,15 @@
     "Base/StringBuffer.md",
     "Base/может ли factory конструктор в dart быть const.md",
     "Base/@pragma.md",
-    "Base/Архитектура.md",
     "Base/Ангстрем.md",
     "Z-Core/00 Физика.md",
     "Base/Оперативная память.md",
     "Base/Update Mixin.md",
     "Z-Core/00 Компьютер.md",
     "Base/Тактовая частота процессора.md",
-    "Z-Core/00 Программирование.md",
     "Untitled 2.canvas",
-    "Base/binding.deferFirstFrame().md",
-    "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
-    "Excalidraw/app_initialization.md",
     "Files/Снимок экрана 2025-07-09 в 13.58.18.png",
-    "Base/Map extension.md",
     "Files/Снимок экрана 2025-07-09 в 10.51.31.png",
-    "Base/Singleton.md",
     "Untitled 1.canvas",
     "Files/5_7_1_920d72d0ba.svg",
     "Files/Снимок экрана 2025-05-24 в 15.44.00.png",
