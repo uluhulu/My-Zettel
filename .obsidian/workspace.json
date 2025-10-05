@@ -6,6 +6,7 @@
       {
         "id": "06664d7e3226e1f4",
         "type": "tabs",
+        "dimension": 63.72699386503068,
         "children": [
           {
             "id": "6b91f9fe2b472bcb",
@@ -114,9 +115,84 @@
               "icon": "lucide-file",
               "title": "transaction"
             }
+          },
+          {
+            "id": "bcc5fe396d8da435",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 6.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 6"
+            },
+            "group": "6cb22ce1495df800"
+          },
+          {
+            "id": "c000b3baa411751d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-04 13.37.15.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
+      },
+      {
+        "id": "33fe9ff78e6f98c5",
+        "type": "tabs",
+        "dimension": 36.27300613496933,
+        "children": [
+          {
+            "id": "6f9c7e34ad6024b4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Untitled 6.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2713004566147887,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Untitled 6"
+            },
+            "group": "6cb22ce1495df800"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,14 +342,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22122f66f4fe4a20",
+  "active": "c000b3baa411751d",
   "lastOpenFiles": [
-    "Base/Оперативная память.md",
+    "Excalidraw/Drawing 2025-06-29 11.38.30.excalidraw.md",
+    "Excalidraw/app_initialization.md",
+    "Excalidraw/Drawing 2025-10-06 00.33.51.excalidraw.md",
+    "Untitled 6.canvas",
+    "Base/Bloc Observer.md",
+    "Base/Ангстрем.md",
+    "Base/@pragma.md",
+    "Z-Core/00 Provider.md",
+    "Z-Core/00 Navigation.md",
+    "Z-Core/00 Landing page.md",
+    "Z-Core/00 HTML.md",
+    "Z-Core/00 Flutter.md",
+    "Z-Core/00 Drift.md",
+    "Z-Core/00 CSS.md",
+    "Z-Core/00 Bloc.md",
+    "Z-Core/00 Физика.md",
+    "Z-Core/00 Программирование.md",
+    "Z-Core/00 Компьютер.md",
     "Base/transaction.md",
+    "Base/Оперативная память.md",
     "Base/может ли factory конструктор в dart быть const.md",
     "Base/Каскадный оператор.md",
     "Base/Архитектура.md",
-    "Base/Ангстрем.md",
     "Base/Тактовая частота процессора.md",
     "Base/Условные экспорты.md",
     "Base/Условный экспорт.md",
@@ -281,26 +374,10 @@
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Base/QueryExecutor.md",
-    "Z-Core/00 Drift.md",
-    "Base/@pragma.md",
-    "Excalidraw/app_initialization.md",
     "Untitled",
-    "Excalidraw/scenario.md",
-    "Excalidraw/logger.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-10 14.31.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-29 11.38.30.excalidraw.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Base/Создание папки для ci cd.md",
-    "Base/sql lite.md",
-    "Base/flutter_secure_storage.md",
-    "Base/typed_data.md",
-    "Z-Core/00 Flutter.md",
-    "Base/on Object catch.md",
-    "Base/Stopwatch.md",
     "Files/Снимок экрана 2025-07-09 в 13.58.18.png",
     "Files/Снимок экрана 2025-07-09 в 10.51.31.png",
     "Files/5_7_1_920d72d0ba.svg",
