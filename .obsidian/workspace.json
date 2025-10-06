@@ -138,12 +138,12 @@
             "id": "c000b3baa411751d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2025-07-04 13.37.15.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-04 13.37.15.excalidraw"
             }
           }
         ],
