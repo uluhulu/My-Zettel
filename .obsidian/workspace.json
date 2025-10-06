@@ -138,12 +138,12 @@
             "id": "c000b3baa411751d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-04 13.37.15.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Drawing 2025-07-04 13.37.15.excalidraw"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 6.canvas",
+                "file": "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 6"
+              "title": "Graph of Drawing 2025-07-04 13.37.15.excalidraw"
             },
             "group": "6cb22ce1495df800"
           }
