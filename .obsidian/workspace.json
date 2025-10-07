@@ -133,21 +133,9 @@
               "title": "Untitled 6"
             },
             "group": "6cb22ce1495df800"
-          },
-          {
-            "id": "c000b3baa411751d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-04 13.37.15.excalidraw"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "33fe9ff78e6f98c5",
@@ -160,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
+                "file": "Untitled 6.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-07-04 13.37.15.excalidraw"
+              "title": "Graph of Untitled 6"
             },
             "group": "6cb22ce1495df800"
           }
@@ -342,15 +330,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c000b3baa411751d",
+  "active": "02b56175f69a6466",
   "lastOpenFiles": [
+    "Excalidraw/scenario.md",
+    "Untitled 6.canvas",
+    "Base/Bloc.transformer.md",
+    "Base/Архитектура.md",
+    "Base/Ангстрем.md",
+    "Excalidraw/Drawing 2025-07-04 13.37.15.excalidraw.md",
+    "Base/@pragma.md",
     "Excalidraw/Drawing 2025-06-29 11.38.30.excalidraw.md",
     "Excalidraw/app_initialization.md",
     "Excalidraw/Drawing 2025-10-06 00.33.51.excalidraw.md",
-    "Untitled 6.canvas",
     "Base/Bloc Observer.md",
-    "Base/Ангстрем.md",
-    "Base/@pragma.md",
     "Z-Core/00 Provider.md",
     "Z-Core/00 Navigation.md",
     "Z-Core/00 Landing page.md",
@@ -366,11 +358,7 @@
     "Base/Оперативная память.md",
     "Base/может ли factory конструктор в dart быть const.md",
     "Base/Каскадный оператор.md",
-    "Base/Архитектура.md",
     "Base/Тактовая частота процессора.md",
-    "Base/Условные экспорты.md",
-    "Base/Условный экспорт.md",
-    "Base/Эволюция систем.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
