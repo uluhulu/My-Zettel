@@ -120,17 +120,14 @@
             "id": "bcc5fe396d8da435",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 6.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Base/Переменные в java script.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 6"
+              "icon": "lucide-file",
+              "title": "Переменные в java script"
             },
             "group": "6cb22ce1495df800"
           }
@@ -148,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 6.canvas",
+                "file": "Base/Переменные в java script.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 6"
+              "title": "Graph of Переменные в java script"
             },
             "group": "6cb22ce1495df800"
           }
@@ -330,8 +327,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02b56175f69a6466",
+  "active": "bcc5fe396d8da435",
   "lastOpenFiles": [
+    "Base/NaN Infinity.md",
+    "Base/Переменные в java script.md",
+    "Base/Динамическая тиизация.md",
+    "Z-Core/00 JavaScript.md",
+    "Z-Core/00 Bloc.md",
+    "Base/Update Mixin.md",
+    "Base/Stopwatch.md",
     "Excalidraw/scenario.md",
     "Untitled 6.canvas",
     "Base/Bloc.transformer.md",
@@ -350,15 +354,8 @@
     "Z-Core/00 Flutter.md",
     "Z-Core/00 Drift.md",
     "Z-Core/00 CSS.md",
-    "Z-Core/00 Bloc.md",
     "Z-Core/00 Физика.md",
     "Z-Core/00 Программирование.md",
-    "Z-Core/00 Компьютер.md",
-    "Base/transaction.md",
-    "Base/Оперативная память.md",
-    "Base/может ли factory конструктор в dart быть const.md",
-    "Base/Каскадный оператор.md",
-    "Base/Тактовая частота процессора.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
