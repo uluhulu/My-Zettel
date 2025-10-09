@@ -122,12 +122,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Переменные в java script.md",
+                "file": "Z-Core/00 JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Переменные в java script"
+              "title": "00 JavaScript"
             },
             "group": "6cb22ce1495df800"
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Переменные в java script.md",
+                "file": "Z-Core/00 JavaScript.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,11 +173,22 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Переменные в java script"
+              "title": "Graph of 00 JavaScript"
             },
             "group": "6cb22ce1495df800"
+          },
+          {
+            "id": "22196044332c91e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,12 +338,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bcc5fe396d8da435",
+  "active": "22196044332c91e6",
   "lastOpenFiles": [
-    "Base/NaN Infinity.md",
-    "Base/Переменные в java script.md",
-    "Base/Динамическая тиизация.md",
     "Z-Core/00 JavaScript.md",
+    "Base/Переменные в java script.md",
+    "Base/Динамическая типизация.md",
+    "Base/NaN Infinity.md",
     "Z-Core/00 Bloc.md",
     "Base/Update Mixin.md",
     "Base/Stopwatch.md",
