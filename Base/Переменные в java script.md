@@ -112,4 +112,4 @@ __
 -
 __
 ###Links
--[[00 JavaScript]]
+-[["rem reset" или "font-size trick".]]

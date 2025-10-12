@@ -122,12 +122,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/00 JavaScript.md",
+                "file": "Base/border-box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 JavaScript"
+              "title": "border-box"
             },
             "group": "6cb22ce1495df800"
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z-Core/00 JavaScript.md",
+                "file": "Base/border-box.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 00 JavaScript"
+              "title": "Graph of border-box"
             },
             "group": "6cb22ce1495df800"
           },
@@ -181,10 +181,14 @@
             "id": "22196044332c91e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Base/border-box.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "border-box"
             }
           }
         ],
@@ -338,11 +342,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22196044332c91e6",
+  "active": "bcc5fe396d8da435",
   "lastOpenFiles": [
-    "Z-Core/00 JavaScript.md",
-    "Base/Переменные в java script.md",
+    "Base/Untitled 1.md",
+    "Base/border-box.md",
+    "Base/\"rem reset\" или \"font-size trick\"..md",
     "Base/Динамическая типизация.md",
+    "Base/Переменные в java script.md",
     "Base/NaN Infinity.md",
     "Z-Core/00 Bloc.md",
     "Base/Update Mixin.md",
@@ -365,8 +371,6 @@
     "Z-Core/00 Flutter.md",
     "Z-Core/00 Drift.md",
     "Z-Core/00 CSS.md",
-    "Z-Core/00 Физика.md",
-    "Z-Core/00 Программирование.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",

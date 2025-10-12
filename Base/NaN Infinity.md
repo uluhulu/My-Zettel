@@ -110,7 +110,7 @@ console.log(-Infinity < -1000000); // true
 
 __
 ###Zero-Links
--[[00 JavaScript]]
+-[["rem reset" или "font-size trick".]]
 __
 ###Links
 -
