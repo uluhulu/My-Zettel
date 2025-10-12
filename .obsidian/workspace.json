@@ -122,12 +122,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/border-box.md",
+                "file": "Base/01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "border-box"
+              "title": "01"
             },
             "group": "6cb22ce1495df800"
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/border-box.md",
+                "file": "Base/01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of border-box"
+              "title": "Graph of 01"
             },
             "group": "6cb22ce1495df800"
           },
@@ -344,9 +344,11 @@
   },
   "active": "bcc5fe396d8da435",
   "lastOpenFiles": [
-    "Base/Untitled 1.md",
-    "Base/border-box.md",
+    "Z-Core/00 Основы веб-разработки.md",
+    "Base/01.md",
     "Base/\"rem reset\" или \"font-size trick\"..md",
+    "Base/border-box.md",
+    "Base/Untitled 1.md",
     "Base/Динамическая типизация.md",
     "Base/Переменные в java script.md",
     "Base/NaN Infinity.md",
@@ -369,8 +371,6 @@
     "Z-Core/00 Landing page.md",
     "Z-Core/00 HTML.md",
     "Z-Core/00 Flutter.md",
-    "Z-Core/00 Drift.md",
-    "Z-Core/00 CSS.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
