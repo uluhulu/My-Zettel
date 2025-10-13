@@ -122,12 +122,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/<span>.md",
+                "file": "Base/display inline-flex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "<span>"
+              "title": "display inline-flex"
             },
             "group": "6cb22ce1495df800"
           }
@@ -344,11 +344,12 @@
   },
   "active": "bcc5fe396d8da435",
   "lastOpenFiles": [
-    "Base/hover, active.md",
+    "Base/display block.md",
+    "Base/display inline-flex.md",
     "Base/<span>.md",
+    "Base/hover, active.md",
     "Base/position relative.md",
     "Base/letter-spacing  05vw.md",
-    "Base/display block.md",
     "Base/display flex.md",
     "Base/\"rem reset\" или \"font-size trick\"..md",
     "Base/border-box.md",
@@ -370,7 +371,6 @@
     "Base/@pragma.md",
     "Excalidraw/Drawing 2025-06-29 11.38.30.excalidraw.md",
     "Excalidraw/app_initialization.md",
-    "Excalidraw/Drawing 2025-10-06 00.33.51.excalidraw.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
