@@ -151,12 +151,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Представление сети.md",
+                "file": "Base/Сети Интранет и Экстранет.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Представление сети"
+              "title": "Сети Интранет и Экстранет"
             }
           }
         ],
@@ -372,8 +372,14 @@
   },
   "active": "c51ac27ee44f7596",
   "lastOpenFiles": [
-    "Base/Средства сетевого подключения.md",
+    "Base/Интернет.md",
+    "Base/Сети Интранет и Экстранет.md",
+    "Base/Глобальные сети.md",
+    "Base/Локальные сети.md",
+    "Base/Типы сетей.md",
+    "Base/Топологические схемы.md",
     "Base/Представление сети.md",
+    "Base/Средства сетевого подключения.md",
     "Files/Снимок экрана 2025-11-01 в 20.25.37.png",
     "Base/border-box.md",
     "Base/Основы сетевых технологий.md",
@@ -394,13 +400,7 @@
     "Base/Untitled 1.md",
     "Base/NaN Infinity.md",
     "Z-Core/00 Bloc.md",
-    "Base/Update Mixin.md",
-    "Base/Stopwatch.md",
-    "Excalidraw/scenario.md",
     "Untitled 6.canvas",
-    "Base/Bloc.transformer.md",
-    "Base/Архитектура.md",
-    "Base/Ангстрем.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
