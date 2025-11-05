@@ -6,7 +6,7 @@
       {
         "id": "06664d7e3226e1f4",
         "type": "tabs",
-        "dimension": 42.33128834355828,
+        "dimension": 61.963190184049076,
         "children": [
           {
             "id": "6b91f9fe2b472bcb",
@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/IPv4 адреса новой сети.md",
+                "file": "Base/Архитектура современных веб приложений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4 адреса новой сети"
+              "title": "Архитектура современных веб приложений"
             },
             "group": "239a300d5257cedf"
           }
@@ -180,7 +180,7 @@
       {
         "id": "90c654ef2375086b",
         "type": "tabs",
-        "dimension": 42.33128834355828,
+        "dimension": 22.699386503067483,
         "children": [
           {
             "id": "8a521982ed8139cc",
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/IPv4 адреса новой сети.md",
+                "file": "Base/Архитектура современных веб приложений.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,12 +211,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.16574015476577764,
+                  "scale": 1.9238367830978471,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of IPv4 адреса новой сети"
+              "title": "Graph of Архитектура современных веб приложений"
             },
             "group": "239a300d5257cedf"
           }
@@ -225,7 +225,7 @@
       {
         "id": "33fe9ff78e6f98c5",
         "type": "tabs",
-        "dimension": 15.337423312883438,
+        "dimension": 15.337423312883436,
         "children": [
           {
             "id": "6f9c7e34ad6024b4",
@@ -430,10 +430,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a521982ed8139cc",
+  "active": "59afe8c1087fb279",
   "lastOpenFiles": [
-    "Base/Разделение сети на подсети.md",
+    "Z-Core/00 Frontend.md",
     "Base/IPv4 адреса новой сети.md",
+    "Base/Разделение сети на подсети.md",
     "Base/Что означает маска подсети.md",
     "Base/Определение подсетей по IPv4-адресу.md",
     "Base/Архитектура современных веб приложений.md",
@@ -459,7 +460,6 @@
     "Base/hover, active.md",
     "Base/position relative.md",
     "Base/letter-spacing  05vw.md",
-    "Base/display flex.md",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
