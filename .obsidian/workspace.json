@@ -212,7 +212,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.16574015476577764,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -430,7 +430,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59afe8c1087fb279",
+  "active": "8a521982ed8139cc",
   "lastOpenFiles": [
     "Base/Разделение сети на подсети.md",
     "Base/IPv4 адреса новой сети.md",
