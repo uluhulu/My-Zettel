@@ -185,9 +185,23 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-11-06 15.15.59.excalidraw"
             }
+          },
+          {
+            "id": "d941b4933285d2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "90c654ef2375086b",
@@ -442,10 +456,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5cb5fad5eaca7cd",
+  "active": "d941b4933285d2ee",
   "lastOpenFiles": [
-    "Base/Английский.md",
     "Excalidraw/Drawing 2025-11-06 15.15.59.excalidraw.md",
+    "Base/Untitled.md",
+    "Base/Английский.md",
     "Base/\"rem reset\" или \"font-size trick\"..md",
     "Z-Core/00 HTML.md",
     "Base/Архитектура современных веб приложений.md",
@@ -471,7 +486,6 @@
     "Base/Основы сетевых технологий.md",
     "Files/Снимок экрана 2025-11-01 в 20.20.20.png",
     "Base/display inline-flex.md",
-    "Base/display block.md",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
