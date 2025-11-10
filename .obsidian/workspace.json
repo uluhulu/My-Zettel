@@ -192,12 +192,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Вопрос 3.md",
+                "file": "Base/Вопрос 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопрос 3"
+              "title": "Вопрос 4"
             }
           }
         ],
@@ -363,7 +363,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "fe9cbb4210e84d64",
@@ -458,8 +458,9 @@
   },
   "active": "d941b4933285d2ee",
   "lastOpenFiles": [
-    "Base/Вопрос 2.md",
     "Base/Вопрос 3.md",
+    "Base/Вопрос 4.md",
+    "Base/Вопрос 2.md",
     "Base/Вопрос 1.md",
     "Base/Глобальные сети.md",
     "Z-Core/00 Основы веб-разработки.md",
@@ -483,7 +484,6 @@
     "Base/Frontend.md",
     "Base/Сети Интранет и Экстранет.md",
     "Base/Интернет.md",
-    "Base/Локальные сети.md",
     "Files/Снимок экрана 2025-11-01 в 20.25.37.png",
     "Files/Снимок экрана 2025-11-01 в 20.20.20.png",
     "Untitled 6.canvas",
