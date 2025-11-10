@@ -192,12 +192,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Вопрос 6.md",
+                "file": "Base/Вопрос 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопрос 6"
+              "title": "Вопрос 10"
             }
           }
         ],
@@ -237,7 +237,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3675968159591614,
+                  "scale": 1.4145957618273584,
                   "close": true
                 }
               },
@@ -458,8 +458,14 @@
   },
   "active": "d941b4933285d2ee",
   "lastOpenFiles": [
-    "Base/Вопрос 5.md",
+    "Base/Вопрос 9.md",
+    "Base/Вопрос 10.md",
+    "Base/Вопрос 8.md",
+    "Base/Untitled 2.md",
+    "Base/Вопрос 7.md",
     "Base/Вопрос 6.md",
+    "Files/Снимок экрана 2025-11-10 в 22.24.59.png",
+    "Base/Вопрос 5.md",
     "Base/Вопрос 4.md",
     "Base/Вопрос 3.md",
     "Base/Вопрос 2.md",
@@ -479,11 +485,6 @@
     "Base/IPv4 адреса новой сети.md",
     "Base/Разделение сети на подсети.md",
     "Base/Что означает маска подсети.md",
-    "Base/Определение подсетей по IPv4-адресу.md",
-    "Base/Сетевая архитектура.md",
-    "Z-Core/00 Основы сетевых технологий.md",
-    "Base/Архитектура Веб-приложений..md",
-    "Base/Frontend.md",
     "Files/Снимок экрана 2025-11-01 в 20.25.37.png",
     "Files/Снимок экрана 2025-11-01 в 20.20.20.png",
     "Untitled 6.canvas",
@@ -501,7 +502,6 @@
     "Files/Pasted image 20250515184147.png",
     "Files/Снимок экрана 2025-03-25 в 11.11.59.png",
     "Files/Снимок экрана 2025-03-22 в 17.09.26.png",
-    "Files/Снимок экрана 2025-03-22 в 17.06.32.png",
     "Excalidraw",
     "Новая папка",
     "remoter",
