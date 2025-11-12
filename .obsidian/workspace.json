@@ -237,7 +237,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.03679688208380875,
+                  "scale": 0.11332507891549622,
                   "close": true
                 }
               },
@@ -456,7 +456,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d941b4933285d2ee",
+  "active": "8a521982ed8139cc",
   "lastOpenFiles": [
     "Files/Снимок экрана 2025-11-12 в 10.44.08.png",
     "Files/Снимок экрана 2025-11-12 в 10.39.55.png",
