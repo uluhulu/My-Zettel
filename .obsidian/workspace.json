@@ -6,7 +6,7 @@
       {
         "id": "06664d7e3226e1f4",
         "type": "tabs",
-        "dimension": 65.50522648083623,
+        "dimension": 72.10599721059972,
         "children": [
           {
             "id": "6b91f9fe2b472bcb",
@@ -234,12 +234,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Трехмерная структура.md",
+                "file": "Base/Биология 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Трехмерная структура"
+              "title": "Биология 1"
             }
           }
         ],
@@ -248,7 +248,7 @@
       {
         "id": "90c654ef2375086b",
         "type": "tabs",
-        "dimension": 17.073170731707318,
+        "dimension": 13.94700139470014,
         "children": [
           {
             "id": "8a521982ed8139cc",
@@ -279,7 +279,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.37992229539801126,
+                  "scale": 2.197485197926243,
                   "close": true
                 }
               },
@@ -293,7 +293,7 @@
       {
         "id": "33fe9ff78e6f98c5",
         "type": "tabs",
-        "dimension": 17.421602787456447,
+        "dimension": 13.94700139470014,
         "children": [
           {
             "id": "6f9c7e34ad6024b4",
@@ -500,6 +500,9 @@
   },
   "active": "f24edca13fca057e",
   "lastOpenFiles": [
+    "Z-Core/00 Биология.md",
+    "Base/Биология 1.md",
+    "Base/Трехмерная структура.md",
     "Base/Топологические схемы.md",
     "Base/Типы сетей.md",
     "Base/Тема 7. GUI, классы, модуль tkinter.md",
@@ -523,9 +526,6 @@
     "Base/Английский.md",
     "Z-Core/00 UX Исследователь.md",
     "Z-Core/00 Программирование.md",
-    "Z-Core/00 Основы сетевых технологий.md",
-    "Z-Core/00 Основы программирования.md",
-    "Z-Core/00 Основы ИКТ.md",
     "Files/landscape-2022-07-06.png",
     "Files/Снимок экрана 2025-11-12 в 10.44.08.png",
     "Files/Снимок экрана 2025-11-12 в 10.39.55.png",
