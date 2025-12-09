@@ -241,9 +241,21 @@
               "icon": "lucide-file",
               "title": "Биология 1"
             }
+          },
+          {
+            "id": "71154b0f96d43952",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       },
       {
         "id": "90c654ef2375086b",
@@ -498,7 +510,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f24edca13fca057e",
+  "active": "71154b0f96d43952",
   "lastOpenFiles": [
     "Z-Core/00 Биология.md",
     "Base/Биология 1.md",
